@@ -22,7 +22,7 @@ public class ChatInterceptor extends JavaPlugin {
 	
 	
 	@Override
-    public void onEnable() {
+	public void onEnable() {
 		protocol = new TinyProtocol(this) {
 			
 			@Override
