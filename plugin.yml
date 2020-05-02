@@ -1,0 +1,5 @@
+name: PacketPluginCubeCraft
+main: com.dash.main.ChatInterceptor
+version: 1.0
+api-version: 1.12.2
+commands: 
